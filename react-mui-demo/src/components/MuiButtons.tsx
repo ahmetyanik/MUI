@@ -57,6 +57,10 @@ export const MuiButtons = () => {
             <SendIcon />
           </IconButton>
         </Stack>
+
+        <Stack>
+            
+        </Stack>
       </Stack>
     </div>
   );
