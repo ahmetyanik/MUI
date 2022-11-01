@@ -36,6 +36,10 @@ export const MuiButtons = () => {
             <Button variant='contained' size='medium'>Medium</Button>
             <Button variant='contained' size='large'>Large</Button>
         </Stack>
+
+        <Stack>
+            
+        </Stack>
       </Stack>
     </div>
   );
