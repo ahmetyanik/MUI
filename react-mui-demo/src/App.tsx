@@ -2,6 +2,7 @@ import "./App.css";
 import { MuiAutocomplete } from "./components/MuiAutocomplete";
 import { MuiButtons } from "./components/MuiButtons";
 import { MuiCheckBox } from "./components/MuiCheckBox";
+import { MuiLayout } from "./components/MuiLayout";
 import { MuiRadioButton } from "./components/MuiRadioButton";
 import { MuiRating } from "./components/MuiRating";
 import { MuiSelect } from "./components/MuiSelect";
@@ -20,7 +21,8 @@ function App() {
       {/* <MuiCheckBox /> */}
       {/* <MuiSwitch /> */}
       {/* <MuiRating /> */}
-      <MuiAutocomplete />
+      {/* <MuiAutocomplete /> */}
+      <MuiLayout/>
     </div>
   );
 }
